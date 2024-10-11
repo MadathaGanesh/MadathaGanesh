@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Madatha Ganesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi, I’m Madatha Ganesh! I’m a Computer Science Engineering student specializing in AI and Machine Learning. 
+  
+  I have hands-on experience in developing predictive models, data analytics, and building dynamic web applications using technologies like Python, React.js, and Java.
+
+I thrive on tackling complex problems and enhancing user experiences. My projects reflect a strong commitment to performance optimization and innovative solutions, and I’m always eager to learn and collaborate on exciting new challenges in the tech landscape.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madathaganesh&label=Profile%20views&color=0e75b6&style=flat" alt="madathaganesh" /> </p>
 
