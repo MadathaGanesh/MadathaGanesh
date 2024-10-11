@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madatha Ganesh</h1>
-<h3 align="center">Hi, I’m Madatha Ganesh! I’m a Computer Science Engineering student specializing in AI and Machine Learning. 
-  
-  I have hands-on experience in developing predictive models, data analytics, and building dynamic web applications using technologies like Python, React.js, and Java.
+<h3 align="center">I’m a Computer Science Engineering student specializing in AI and Machine Learning. I have hands-on experience in developing predictive models, data analytics, and building dynamic web applications using technologies like Python, React.js, and Java.
 
 I thrive on tackling complex problems and enhancing user experiences. My projects reflect a strong commitment to performance optimization and innovative solutions, and I’m always eager to learn and collaborate on exciting new challenges in the tech landscape.
 
