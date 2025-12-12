@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madatha Ganesh</h1>
-<h3 align="center">I’m a Computer Science Engineering student specializing in AI and Machine Learning. I have hands-on experience in developing predictive models, data analytics, and building dynamic web applications using technologies like Python, React.js, and Java.
-
-I thrive on tackling complex problems and enhancing user experiences. My projects reflect a strong commitment to performance optimization and innovative solutions, and I’m always eager to learn and collaborate on exciting new challenges in the tech landscape.
-
+<h3 align="center">Java Backend Developer building RESTful APIs and backend systems with Java, Spring Boot, and Spring Data JPA. Passionate about designing performant services, with hands-on experience achieving sub-50ms response times and optimizing SQL queries in MySQL and PostgreSQL. Worked on projects like a Book Management System and Auto Dealer Management System focusing on clean architecture, security, and scalability. Currently a Senior Associate at Genpact, solving complex system issues and improving reliability for enterprise applications. Continuously learning microservices, Spring Security, and AWS to build robust, production-ready backend solutions
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madathaganesh&label=Profile%20views&color=0e75b6&style=flat" alt="madathaganesh" /> </p>
