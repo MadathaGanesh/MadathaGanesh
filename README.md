@@ -19,4 +19,4 @@ Cloud and delivery	AWS EC2 and S3, Docker, Kubernetes, Harness CI/CD
 Testing and quality	JUnit 5, Mockito, SonarQube
 
 
-Connect with me on LinkedIn
+Connect with me on LinkedIn: https://www.linkedin.com/in/madathaganesh-java-backend-developer/
