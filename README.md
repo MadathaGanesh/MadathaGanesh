@@ -1,27 +1,22 @@
-## Madatha Ganesh — Java Backend Developer
+Hi, I’m Madatha Ganesh
+Java Backend Developer · Hyderabad, India
 
-Backend engineer with 1.5+ years building production-grade REST APIs,
-secure authentication systems, and data-intensive backend services using
-Java, Spring Boot, and Spring Security.
+I build Spring Boot services and REST APIs. At Genpact, I work on backend systems that support dealership operations, from scanner integrations to production deployments on AWS.
+Production work
+- Built 12+ REST endpoints that process 1,500–2,000 vehicle records per day. I made intake requests idempotent so scanners can retry after a timeout without creating duplicate records.
+- Led the Java 8 to Java 17 migration for eight production microservices. The team used a blue-green rollout and completed the migration with zero downtime.
+- Managed Harness CI/CD pipelines for eight microservices, enforced SonarQube quality gates and JUnit 5 coverage thresholds, and containerized services for Kubernetes deployment.
+Featured projects
+ExpenseCore
+A Spring Boot expense-management backend with role-based access, paginated expense searches, and JWT revocation on logout using Redis.
+Real-Time Event Processing System
+A Java 21 and Kafka pipeline that reads Wikimedia’s live Server-Sent Events feed. A separate consumer persists the events to MySQL using Spring Data JPA.
+Tech stack
+Area	Tools and technologies
+Backend	Java 8, 17 and 21, Spring Boot, Spring Security, Spring Data JPA, REST APIs
+Data and messaging	SQL, MySQL, PostgreSQL, Redis, Apache Kafka
+Cloud and delivery	AWS EC2 and S3, Docker, Kubernetes, Harness CI/CD
+Testing and quality	JUnit 5, Mockito, SonarQube
 
-Currently at **Genpact**, working on enterprise-grade systems handling
-high-concurrency financial transactions — reduced query latency by 30%
-and contributed to 99.9% SLA uptime.
 
----
-
-**What I build:**
-- REST APIs with JWT/OAuth2 auth and role-based access control
-- Layered microservices using Spring Boot + JPA + PostgreSQL/MySQL
-- Data migration utilities and automation scripts at enterprise scale
-
-**Currently expanding into:**
-- Event-driven architecture with Apache Kafka
-- Containerization with Docker
-- Cloud deployment on AWS (EC2, RDS, S3)
-
----
-
-📂 Projects → [Portfolio](https://madathaganeshportfolio.netlify.app/)  
-LinkedIn: https://www.linkedin.com/in/madathaganesh/
-📬 Reach me → ganeshmadatha159@gmail.com
+Connect with me on LinkedIn
